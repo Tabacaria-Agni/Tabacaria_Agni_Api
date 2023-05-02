@@ -1,0 +1,265 @@
+{
+  "users": [
+    {
+      "email": "kenzinho@mail.com",
+      "password": "$2a$10$YQiiz0ANVwIgpOjYXPxc0O9H2XeX3m8OoY1xk7OGgxTnOJnsZU7FO",
+      "name": "Kenzinho",
+      "age": 38,
+      "id": 1
+    },
+    {
+      "email": "mateus@mail.com",
+      "password": "$2a$10$ja4Ho/BWfTm8xoQTfzSRDOK3kDazZRiDhbQiSDSmaIXkcO0fjdFFq",
+      "name": "Mateus",
+      "age": 22,
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Narguile pequeno",
+      "price": 320,
+      "image": "https://www.arguilebr.com.br/28383-tm_large_default/narguile-pequeno-amazon-hookah-lord-vaso-chamma-qt-rosh-fast-flux-prato-wire.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 2,
+      "name": "Narguile médio",
+      "price": 469.99,
+      "image": "https://www.lotustabacaria.com.br/media/catalog/product/cache/1/image/800x/9df78eab33525d08d6e5fb8d27136e95/I/M/IMG_887.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 3,
+      "name": "Narguile grande",
+      "price": 649.99,
+      "image": "https://www.arguilebr.com.br/30575-large_default/narguile-grande-amazon-luxury-preto-metal-preto-prato-zenith-coroa-rosh-seven.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 4,
+      "name": "Pod descartável",
+      "price": 150,
+      "image": "https://cdn.awsli.com.br/600x450/704/704924/produto/111078926/bed846eca2.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 5,
+      "name": "Vape",
+      "price": 350,
+      "image": "https://media.npr.org/assets/img/2019/10/25/vape_devices-1_custom-d1a4368fc1128e94a7da633d1f3962f38ed34205-s1100-c50.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 6,
+      "name": "Charuto de luxo",
+      "price": 89.99,
+      "image": "https://blogcharuto.files.wordpress.com/2018/04/charuto.jpg?w=1400",
+      "category": "readyToUse"
+    },
+    {
+      "id": 7,
+      "name": "Kit cigarro de luxo",
+      "price": 146.75,
+      "image": "https://ae01.alicdn.com/kf/H819627de4d884e68b924f8af65481b7ae/Luxo-retro-triplo-aberto-cigarro-caso-birmingham-bloody-mob-shabbier-metal-m-o-esculpida-masculino-melhor.jpg_Q90.jpg_.webp",
+      "category": "readyToUse"
+    },
+    {
+      "id": 8,
+      "name": "Isqueiro metálico",
+      "price": 140,
+      "image": "https://m.media-amazon.com/images/I/61Xp1o7jBXL._AC_SX466_.jpg",
+      "category": "readyToUse"
+    },
+    {
+      "id": 9,
+      "name": "Isqueiro elétrico",
+      "price": 55,
+      "image": "https://ae01.alicdn.com/kf/Hf086c24750c54e93980d93dcad8568d2P/Isqueiro-eletr-nico-de-luxo-metal-duplo-pulso-arco-isqueiro-usb-recarreg-vel-sem-chama-el.jpg_Q90.jpg_.webp",
+      "category": "readyToUse"
+    },
+    {
+      "id": 10,
+      "name": "Vaso fumê grande",
+      "price": 80,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4qHfcrj_u-XM9r3ZHbhPzju7p72xgND9giw&usqp=CAU",
+      "category": "vase"
+    },
+    {
+      "id": 11,
+      "name": "Vaso Aladin pequeno",
+      "price": 60,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_746522-MLB47003969617_082021-O.jpg",
+      "category": "vase"
+    },
+    {
+      "id": 12,
+      "name": "Vaso águas do oriente médio",
+      "price": 75,
+      "image": "https://http2.mlstatic.com/D_NQ_NP_901830-MLB47263958437_082021-O.webp",
+      "category": "vase"
+    },
+    {
+      "id": 13,
+      "name": "Mangueira branca - dourada",
+      "price": 30,
+      "image": "https://ae01.alicdn.com/kf/HTB1qudQQpXXXXcEXFXXq6xXFXXXh/Mangueira-dourada-e-transparente-acess-rio-para-narguile-hookah-shisha-silicone-branco.jpg_Q90.jpg_.webp",
+      "category": "hose"
+    },
+    {
+      "id": 14,
+      "name": "Mangueira cinza - azul",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3VD1rS1UWUz2JURowIOt1blp2FO4bD5M-1g&usqp=CAU",
+      "category": "hose"
+    },
+    {
+      "id": 15,
+      "name": "Mangueira cinza - verde",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3ttvMm-pwbpcWogfiVTCphpoO7DinztxtUy7uupWFph2dAimF9JoG8vMPsTs4vtisZBY&usqp=CAU",
+      "category": "hose"
+    },
+    {
+      "id": 16,
+      "name": "Mangueira preta - vermelha",
+      "price": 30,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwggDBXZF60uVIqXQjR29NU0RyF7laMQ1i18bOnRXwgxCT1TKAjthOd2sdRwv8Yz9SDMc&usqp=CAU",
+      "category": "hose"
+    },
+    {
+      "id": 17,
+      "name": "Corpo do narguile - madeira",
+      "price": 90,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUV5OXkPF8hWlhVD0F-ghipzfXvKzgCjqsVw&usqp=CAU",
+      "category": "body"
+    },
+    {
+      "id": 18,
+      "name": "Corpo do narguile preto - dourado",
+      "price": 90,
+      "image": "https://cdn.awsli.com.br/300x300/294/294169/produto/2033902096cea9c877f.jpg",
+      "category": "body"
+    },
+    {
+      "id": 19,
+      "name": "Corpo do narguile - cerâmica",
+      "price": 100,
+      "image": "https://images.tcdn.com.br/img/img_prod/421417/stem_corpo_de_narguile_amazon_prime_cor_marble_gold_3210_1_20190704113933.jpg",
+      "category": "body"
+    },
+    {
+      "id": 20,
+      "name": "Prato para narguile - bronze",
+      "price": 50,
+      "image": "https://www.arguilebr.com.br/10763-large_default/prato-narguile-amazon-asteris-cobre-marrom.jpg",
+      "category": "plate"
+    },
+    {
+      "id": 21,
+      "name": "Prato para narguile - Rosê",
+      "price": 60,
+      "image": "https://www.arguilebr.com.br/7183-large_default/prato-narguile-hookah-king-imperial-rosa-rose.jpg",
+      "category": "plate"
+    },
+    {
+      "id": 22,
+      "name": "Prato para narguile - prata",
+      "price": 55,
+      "image": "https://www.arguilebr.com.br/7183-large_default/prato-narguile-hookah-king-imperial-rosa-rose.jpg",
+      "category": "plate"
+    },
+    {
+      "id": 23,
+      "name": "Prato para narguile - Ouro",
+      "price": 60,
+      "image": "https://mobile.comprasparaguai.com.br/media/fotos/produtos/thumbs/big/b60e2774a056cf44e1f27932d6e9c011d050dcd4.jpg",
+      "category": "plate"
+    },
+    {
+      "id": 24,
+      "name": "Rosh pro - verde",
+      "price": 70,
+      "image": "https://cdn.awsli.com.br/600x450/927/927100/produto/12231660084162739b5.jpg",
+      "category": "rosh"
+    },
+    {
+      "id": 25,
+      "name": "Rosh pro - cinza",
+      "price": 70,
+      "image": "https://cdn.awsli.com.br/927/927100/produto/122316480c178df8a78.jpg",
+      "category": "rosh"
+    },
+    {
+      "id": 26,
+      "name": "Rosh pro - preto",
+      "price": 70,
+      "image": "https://cdn.awsli.com.br/600x450/927/927100/produto/122316491ad274315c5.jpg",
+      "category": "rosh"
+    },
+    {
+      "id": 27,
+      "name": "Rosh pro - champagne",
+      "price": 70,
+      "image": "https://cdn.awsli.com.br/927/927100/produto/122316462598ede1130.jpg",
+      "category": "rosh"
+    },
+    {
+      "id": 28,
+      "name": "Rosh pro - Rosê",
+      "price": 70,
+      "image": "https://cdn.awsli.com.br/600x450/927/927100/produto/1061214006aa1a0daef.jpg",
+      "category": "rosh"
+    },
+    {
+      "id": 29,
+      "name": "Happy frutt",
+      "price": 12,
+      "image": "https://charutariacuritiba.com.br/wp-content/uploads/2019/11/images-2.jpg",
+      "category": "essence"
+    },
+    {
+      "id": 30,
+      "name": "Fresh watermelon",
+      "price": 12,
+      "image": "https://dw0jruhdg6fis.cloudfront.net/producao/29334798/G/nay_02.jpg",
+      "category": "essence"
+    },
+    {
+      "id": 31,
+      "name": "Prime mint",
+      "price": 12,
+      "image": "https://www.narguilepacks.com.br/smart/modulos/produtos/imagens/grande/essencia-nay-prime-mint_75-25.jpg",
+      "category": "essence"
+    },
+    {
+      "id": 32,
+      "name": "Love 66",
+      "price": 12,
+      "image": "https://www.narguilepacks.com.br/smart/modulos/produtos/imagens/grande/essencia-adalya-love66_27-25.jpg",
+      "category": "essence"
+    },
+    {
+      "id": 33,
+      "name": "Carvão coco maxx 1kg",
+      "price": 40,
+      "image": "https://www.arguilebr.com.br/37067/carvao-narguile-coco-maxx-hexagonal-1kg.jpg",
+      "category": "accessories"
+    },
+    {
+      "id": 34,
+      "name": "Alumínio para narguile",
+      "price": 20,
+      "image": "https://images.tcdn.com.br/img/img_prod/553162/papel_aluminio_ziggy_4479_1_39f73ffe1b880a477087e13bf3a1810d.jpeg",
+      "category": "accessories"
+    },
+    {
+      "id": 35,
+      "name": "Kaloud",
+      "price": 35,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDEmLnwjbMhGs7RmtBerroGQjskECCWLPtTg&usqp=CAU",
+      "category": "accessories"
+    }
+  ]
+}
